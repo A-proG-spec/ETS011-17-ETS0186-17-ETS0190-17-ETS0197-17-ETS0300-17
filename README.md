@@ -4,7 +4,7 @@
 ---
 
 ## 🌟 Introduction
-Welcome to our **Software Lab Assignment** for **1st Semester – Section A** 🎓  
+Welcome to our **Introduction to Software Lab Assignment** for **1st Semester – Section A** 🎓  
 
 This project focuses on learning **Git** and **GitHub**, the backbone of modern software collaboration.  
 Through hands-on practice, we explore how developers track changes, work as a team, and build projects efficiently 🧠💡
@@ -24,7 +24,7 @@ Through hands-on practice, we explore how developers track changes, work as a te
 ---
 
 ## 📚 Course Information
-- 🧪 **Course:** Software Lab  
+- 🧪 **Course:** Introduction to Software  
 - 🗓️ **Semester:** 1st Semester  
 - 🅰️ **Section:** A  
 
