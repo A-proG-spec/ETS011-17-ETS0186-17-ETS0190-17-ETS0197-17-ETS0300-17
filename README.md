@@ -60,4 +60,9 @@ By completing this assignment, we aim to:
 - git pull
 - git merge
 
+## the assignment we are given 
+- create a shared repository on github and create a branch with your name as the name and collaborate
+## deliverables 
+- the link to th3 shared github
+
 ✨ *Learning Git today, building better software tomorrow.* ✨
