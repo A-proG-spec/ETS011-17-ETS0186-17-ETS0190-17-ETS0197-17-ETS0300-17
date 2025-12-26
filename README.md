@@ -52,7 +52,7 @@ By completing this assignment, we aim to:
 ✔️ GitHub makes teamwork smoother and smarter  
 
 ---
-## commands we have learnt 
+## the commands we have learnt 
 - git status
 - git add
 - git commit -m
