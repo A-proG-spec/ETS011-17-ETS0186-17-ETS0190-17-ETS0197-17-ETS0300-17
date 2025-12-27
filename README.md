@@ -62,7 +62,15 @@ By completing this assignment, we aim to:
 
 ## the assignment we are given 
 - create a shared repository on github and create a branch with your name as the name and collaborate
-## deliverables 
+
+- ## Team Assignment Steps
+1. Team creates shared GitHub repo
+2. Everyone does: `git clone shared-repo-url`
+3. Create branch: `git checkout -b your-name`
+4. Add your work: `git add .` → `git commit -m "your work"` → `git push origin your-name`
+5. Make Pull Request on GitHub.
+
+## Deliverables
 - the link to th3 shared github
 
 ✨ *Learning Git today, building better software tomorrow.* ✨
