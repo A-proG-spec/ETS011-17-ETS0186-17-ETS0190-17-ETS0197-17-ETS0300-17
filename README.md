@@ -28,7 +28,10 @@ Through hands-on practice, we explore how developers track changes, work as a te
 ## 📚 Course Information
 - 🧪 **Course:** Introduction to Software  
 - 🗓️ **Semester:** 1st Semester  
-- 🅰️ **Section:** A  
+- 🅰️ **Section:** A
+- 👨‍🏫 **Instructor:** D'r Melak Mesfin
+- 🏫 **Department:** Software Engineering 
+- 📅 **Submission:** 29 Dec 2025
 
 ---
 
@@ -74,5 +77,8 @@ By completing this assignment, we aim to:
 
 ## Deliverables
 - the link to th3 shared github
+
+##  🙏 Acknowledgment
+We thank our instructor for guidance and support throughout this software lab assignment.
 
 ✨ *Learning Git today, building better software tomorrow.* ✨
