@@ -20,6 +20,8 @@ Through hands-on practice, we explore how developers track changes, work as a te
 | 3 | **Arjuma Tilahun**    | ETS0190/17 |
 | 4 | **Arsema Negash**     | ETS0197/17 |
 | 5 | **Betibeb Aregahegn** | ETS0300/17 |
+| 6 | **Anael Mulugeta**    | ETS0176/17 |
+| 7 | **Arsema Desalegn**   | ETS0196/17 |
 
 ---
 
